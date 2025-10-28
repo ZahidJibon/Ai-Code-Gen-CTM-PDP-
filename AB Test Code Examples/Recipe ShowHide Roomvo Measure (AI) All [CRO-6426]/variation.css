@@ -1,0 +1,7 @@
+html body.cro-t-ctm-ki255 #tile_calc_modal .roomvo-measure-my-room-button {
+    display: none !important;
+}
+
+html body.cro-t-ctm-ki255 #tile_calc_modal .roomvo-measure-my-room-button+div {
+    display: none;
+}
